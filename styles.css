@@ -230,8 +230,7 @@ Questions
 .question-text p {
   margin-bottom: 0;
 }
-/* hide text */
-/* .question-text {
+ .question-text {
   display: none;
 }
 .show-text .question-text {
